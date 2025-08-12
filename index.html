@@ -146,8 +146,22 @@
             <label for="contact">Nomor Telepon</label>
             <input type="tel" id="contact" name="contact" placeholder="Masukkan nomor telepon" required>
 
-            <button type="submit">Pesan Sekarang</button>
+<button type="button" id="whatsapp-btn">Pesan Sekarang</button>
         </form>
+<script>
+  document.getElementById("whatsapp-btn").addEventListener("click", function () {
+    const username = document.getElementById("instagram").value;
+    const contact = document.getElementById("contact").value;
+
+    const waNumber = "6282310190594";
+
+    const message = `Halo, saya ingin memesan followers.\nUsername Instagram: ${username}\nNomor Telepon: ${contact}`;
+
+    const encodedMessage = encodeURIComponent(message);
+
+window.open(`https://wa.me/${waNumber}?text=${encodedMessage}`, "_blank");
+  });
+</script>
     </div>
 </div>
 
