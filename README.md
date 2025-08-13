@@ -8,7 +8,7 @@ Website **Jual Beli Followers Instagram** memungkinkan Anda untuk membeli follow
 
 ### Fitur:
 - Daftar paket followers Instagram dengan harga yang kompetitif.
-- Paket dengan variasi jumlah followers: 1,000, 5,000, dan 10,000 followers.
+- Paket dengan variasi jumlah followers: 1,000, 5,000, dan 10,000 sampai 100,000 followers.
 - Formulir pemesanan yang mudah diisi.
 - Desain responsif yang dapat diakses di berbagai perangkat (desktop, tablet, dan mobile).
 - Gambar produk untuk setiap paket followers yang jelas.
